@@ -1,1 +1,4 @@
-g
+output "demo" {
+
+  value = "hello world"
+}
